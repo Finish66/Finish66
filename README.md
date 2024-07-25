@@ -24,7 +24,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+Mono&weight=500&size=25&duration=2500&pause=1500&color=82D7D8&background=FFFFFF00&vCenter=true&width=435&lines=Oi%2C+World!+I'm+Suphal+Bochkar;Hearty+welcome" alt="Typing SVG" />
     </div> -->
         
-```console
+```bash
 suphalbochkar@github:~$ ./welcome.sh
 ```
 
@@ -47,67 +47,67 @@ suphalbochkar@github:~$ ./welcome.sh
 
 <br>
 
-### My Skills
+### Tech Stack
 
 <div style="display: flex;">
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc5NXVybHk0MWRweTdkaDZjbGlkanRyMmllbXRhbmY5YjR2Y3A2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wdd8xRbJIHciBLor9b/giphy.gif" style="margin-right: 20px;" height="200" width="200"> -->
   <div style="display: flex; flex-direction: column;">
     <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Languages</b>
     <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript" height="25" />
     </p>
     <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Libraries</b>
     <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="NextJs" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="NextJs" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
     </p>
     <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Databases</b>
     <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" height="25" />
     </p>
     <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Tools</b>
     <p align="center" style="display: flex; gap: 9px">
       <!-- Version Control -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub"   />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="25" />
       <!-- API Testing & Development -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="Postman"   />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="Postman" height="25" />
       <!-- Deployment & Hosting -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify2.svg" alt="Netlify"   />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="Vite" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg" alt="Vercel"  />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify2.svg" alt="Netlify" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="Vite" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg" alt="Vercel" height="25" />
       <!-- Containerization & Cloud Services -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg" alt="AWS"  />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg" alt="AWS" height="25" />
       <!-- Database & Authentication -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" height="25" />
     </p>
     <b style="display: inline; font-size: 20px; margin-bottom: 0px;">IDEs / Text Editors</b>
     <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg" alt="Vim" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" alt="Neovim" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg" alt="Vim" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" alt="Neovim" height="25" />
     </p>
     <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Workspace</b>
     <p align="center" style="display: flex; gap: 9px; flex-wrap: wrap;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows 11">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" alt="Ubuntu">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg" alt="Mac OS">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Arch Linux">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows 11" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" alt="Ubuntu" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg" alt="Mac OS" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Arch Linux" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux" height="25" />
     </p>
   </div>
 </div>
@@ -117,9 +117,9 @@ suphalbochkar@github:~$ ./welcome.sh
 ### GitHub Stats
 
 <div align="center" style="display: flex; gap: 30px; align-items: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suphalbochkar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=suphalbochkar&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suphalbochkar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=suphalbochkar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=suphalbochkar&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="110" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suphalbochkar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="110" alt="languages graph"  />
 </div>
 
 <br>
