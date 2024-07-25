@@ -117,6 +117,8 @@ suphalbochkar@github:~$ ./welcome.sh
   </div>
 </div>
 
+<br>
+
 ### Socials
 
 <div style="display: flex; gap: 30px; align-items: center">
