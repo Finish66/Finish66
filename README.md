@@ -16,7 +16,7 @@
 
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="320" width="250">
+        <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
     </div>
     <!-- <div style="display: flex; flex-direction: column; font-size: 12px; font-family: 'JetBrains Mono';" class="about-right">
         <div>
@@ -28,7 +28,7 @@
 suphalbochkar@github:~$ ./welcome.sh
 ```
 
-```
+```text
 🎓 Pursuing a Bachelor's in Computer Science
 👨‍💻 Passionate about programming and exploring the world of technology.
 🔎 Main interests: Web Development & Cyber Security
@@ -39,7 +39,7 @@ suphalbochkar@github:~$ ./welcome.sh
 🚩 Keep coding, keep innovating! Let's build the future together!
 🐧 I use Arch btw...
 🎧 Most likely listening to a song right now
-🔄 "To understand recursion, you first need to understand recursion." - Programmer's Paradox
+🔄 "To understand recursion, you first need to understand recursion." - Paradox
 ```
 
 </div>
