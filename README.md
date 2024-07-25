@@ -16,13 +16,13 @@
 
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="350" width="250">
+        <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="320" width="250">
     </div>
-    <div style="display: flex; flex-direction: column; font-size: 12px; font-family: 'JetBrains Mono';" class="about-right">
+    <!-- <div style="display: flex; flex-direction: column; font-size: 12px; font-family: 'JetBrains Mono';" class="about-right">
         <div>
         <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Typing SVG" height="40"/>
         <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+Mono&weight=500&size=25&duration=2500&pause=1500&color=82D7D8&background=FFFFFF00&vCenter=true&width=435&lines=Oi%2C+World!+I'm+Suphal+Bochkar;Hearty+welcome" alt="Typing SVG" />
-    </div>
+    </div> -->
         
 ```console
 suphalbochkar@github:~$ ./welcome.sh
@@ -40,7 +40,6 @@ suphalbochkar@github:~$ ./welcome.sh
 🐧 I use Arch btw...
 🎧 Most likely listening to a song right now
 🔄 "To understand recursion, you first need to understand recursion." - Programmer's Paradox
-
 ```
 
 </div>
