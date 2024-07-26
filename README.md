@@ -31,4 +31,3 @@
     </div>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=suphalbochkar&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
