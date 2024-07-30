@@ -1,7 +1,3 @@
-### Official Account
-
-**Please visit my official GitHub account:** [Suphal Bochkar](https://github.com/suphalbochkar)
-
 ### Socials
 
 <div style="display: flex; gap: 30px; align-items: center">
